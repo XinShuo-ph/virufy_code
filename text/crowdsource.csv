@@ -1,0 +1,10 @@
+,age,condition,gender,medical_history1,medical_history2,medical_history3,medical_history4,medical_history5,medical_history7,medical_history8,reported_symptoms1,reported_symptoms10,reported_symptoms2,reported_symptoms3,reported_symptoms4,reported_symptoms5,reported_symptoms6,reported_symptoms7,reported_symptoms8,reported_symptoms9,smoker
+0,41,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,31,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0
+3,71,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,65,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,23,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+7,23,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+8,23,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
